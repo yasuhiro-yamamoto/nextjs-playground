@@ -3,9 +3,9 @@
 - 記事にしないものもあげるかもしれません
 
 ## Sample Pages
-- [HOME](http://localhost:3000)
-- [Embla Carousel](http://localhost:3000/embla-carousel)
-- [NoEmojiField(by emoji-regex)](http://localhost:3000/emoji-regex)
+- [HOME](https://3f4ac39d.nextjs-playground.pages.dev)
+- [Embla Carousel](https://3f4ac39d.nextjs-playground.pages.dev/embla-carousel)
+- [NoEmojiField(by emoji-regex)](https://3f4ac39d.nextjs-playground.pages.dev/emoji-regex)
 
 ## Local Development
 ```bash

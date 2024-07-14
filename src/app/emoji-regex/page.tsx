@@ -1,6 +1,8 @@
 import { NoEmojiField } from '@/src/components/NoEmojiField'
 import type { Metadata } from 'next'
 
+export const runtime = 'edge'
+
 export const metadata: Metadata = {
   title: 'Emoji Regex | Yasuhiro Yamamoto Playground',
   description: 'No Emoji Field.',

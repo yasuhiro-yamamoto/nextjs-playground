@@ -1,5 +1,7 @@
 import Link from 'next/link'
 
+export const runtime = 'edge'
+
 export default function Home() {
   return (
     <div className="w-fit mx-auto p-10 bg-gray-100">

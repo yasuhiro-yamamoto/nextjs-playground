@@ -1,6 +1,8 @@
 import { Carousel } from '@/src/components/Carousel'
 import type { Metadata } from 'next'
 
+export const runtime = 'edge'
+
 export const metadata: Metadata = {
   title: 'Embla Carousel | Yasuhiro Yamamoto Playground',
   description: 'Carousel Slider.',
