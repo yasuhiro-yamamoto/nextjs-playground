@@ -18,7 +18,7 @@ export const NoEmojiField: FC = () => {
     <div className="grid gap-3">
       <h2 className={cn('text-center font-semibold', !isNoEmoji && 'text-red-500')}>絵文字は禁止だよ</h2>
       <input
-        className={cn('border border-gray-300 rounded-md p-3 w-full', !isNoEmoji && 'border-red-500')}
+        className={cn('border border-gray-300 rounded-md p-3 w-full outline-none', !isNoEmoji && 'border-red-500')}
         type="text"
         value={text}
         onChange={handleChange}
