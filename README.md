@@ -13,3 +13,7 @@ $ git clone
 $ npm i
 $ npm run dev
 ```
+
+## License
+#### emoji-ja
+絵文字以外判定関数の単体テストのテストデータとして [emoji-ja](https://github.com/yagays/emoji-ja) (MIT License) を利用させていただきました。
