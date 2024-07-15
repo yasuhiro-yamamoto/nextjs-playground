@@ -14,7 +14,7 @@ export default function Home() {
           <Link href="/emoji-regex">Emoji Regex</Link>
         </li>
         <li>
-          <Link href="/promise-render-hook">Promise Render Hooks / Dialog</Link>
+          <Link href="/promise-render-hooks">Promise Render Hooks / Dialog</Link>
         </li>
       </ul>
     </div>
