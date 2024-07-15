@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   robots: 'noindex',
 }
 
-export default function EmblaCarousel() {
+export default function EmojiRegex() {
   return (
     <>
       <h1 className="text-xl font-semibold mb-5 text-center">No Emoji Field.(by emoji-regex)</h1>
