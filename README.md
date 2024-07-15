@@ -5,7 +5,11 @@
 ## Sample Pages
 - [HOME](https://nextjs-playground.pages.dev)
 - [Embla Carousel](https://nextjs-playground.pages.dev/embla-carousel)
-- [NoEmojiField(by emoji-regex)](https://nextjs-playground.pages.dev/emoji-regex)
+  - [🖊：カルーセルスライダーライブラリの Embla Carousel が良かった | Zenn](https://zenn.dev/yall/articles/4c7ab236d60553)
+- [No Emoji Field(by emoji-regex)](https://nextjs-playground.pages.dev/emoji-regex)
+  - [🖊：絵文字以外を判定する正規表現 by emoji-regex | Zenn](https://zenn.dev/yall/articles/2b2cf0f45c1d23)
+- [Promise Render Hooks / Dialog](https://nextjs-playground.pages.dev/promise-render-hooks)
+  - [👀：6歳娘「パパ、ユーザーのタイミングでPromiseをresolve()できないの？」 | Qiita](https://qiita.com/Yametaro/items/b6e035fe06530a9f47bc)
 
 ## Local Development
 ```bash
