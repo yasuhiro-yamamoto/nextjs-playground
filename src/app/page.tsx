@@ -8,7 +8,7 @@ export default function Home() {
       <h1 className="font-semibold mb-5">Yasuhiro Yamamoto Playground</h1>
       <ul className="list-disc pl-4 grid gap-2">
         <li>
-          <Link href="/embla-carousel">Centered Embla Carousel</Link>
+          <Link href="/embla-carousel">Embla Carousel</Link>
         </li>
         <li>
           <Link href="/centered-embla-carousel">Centered Embla Carousel</Link>
