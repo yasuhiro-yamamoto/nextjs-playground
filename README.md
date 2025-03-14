@@ -10,6 +10,10 @@
   - [🖊：絵文字以外を判定する正規表現 by emoji-regex | Zenn](https://zenn.dev/yall/articles/2b2cf0f45c1d23)
 - [Promise Render Hooks / Dialog](https://nextjs-playground.pages.dev/promise-render-hooks)
   - [👀：6歳娘「パパ、ユーザーのタイミングでPromiseをresolve()できないの？」 | Qiita](https://qiita.com/Yametaro/items/b6e035fe06530a9f47bc)
+- [Centered Embla Carousel](https://nextjs-playground.pages.dev/centered-embla-carousel)
+  - [🖊：Embla Carousel で左右が少し見切れたスライドを作る | Zenn](https://zenn.dev/yall/articles/aae45a28cd8d37)
+- [Shuffle Images)](https://nextjs-playground.pages.dev/shuffle-images)
+  - [🖊：DOMatrix で CSS の translate による移動量を取得する | Zenn](https://zenn.dev/articles/d692e52510132b)
 
 ## Local Development
 ```bash
