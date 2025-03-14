@@ -19,6 +19,9 @@ export default function Home() {
         <li>
           <Link href="/promise-render-hooks">Promise Render Hooks / Dialog</Link>
         </li>
+        <li>
+          <Link href="/shuffle-images">Shuffle Images</Link>
+        </li>
       </ul>
     </div>
   )
